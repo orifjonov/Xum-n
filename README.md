@@ -8,6 +8,6 @@ Now to take the existing AI algorithm, implement it in the blockchain storage, a
 
 It turns out it will be possible thus to create the behavior of every 1000 people on earth, if well spread the thread of course. but the distribution can also be solved with one agreement in the implementation of the AI in all that there are people, that is all Android, and ios equipment Windows
 
-AI will be called - Himap
+AI will be called - Xum-n
 
 already have a team going preICO Xum-n
