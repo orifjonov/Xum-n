@@ -1,6 +1,6 @@
 Create AI based on the blockchain! 
 
-"The idea is to create a Decentralized database for the AI to it on the basis of smart contracts studied all the new data and made appropriate to the database all networks
+The idea is to create a Decentralized database for the AI to it on the basis of smart contracts studied all the new data and made appropriate to the database all networks
 
 all just
 
