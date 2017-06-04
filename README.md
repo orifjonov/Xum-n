@@ -10,5 +10,5 @@ It turns out it will be possible thus to create the behavior of every 1000 peopl
 
 AI will be called - Himap
 
-already have a team going preICO# Xum-n
+already have a team going preICO Xum-n
 AI based on the blockchain
